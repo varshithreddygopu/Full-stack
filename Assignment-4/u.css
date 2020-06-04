@@ -1,0 +1,32 @@
+body {
+  background-color: gray;
+}
+h1 {
+  color: brown;
+  text-align: center;
+  text-decoration: underline;
+  text-transform: uppercase;
+}
+div {
+  padding: 50px;
+  margin: 30px;
+  border: 10px solid red;
+  width: 60%;
+  text-align: center;
+  color: darkblue;
+  font-weight: bold;
+  font-family: "Times New Roman", Times, serif;
+}
+input[type="textbox"],
+input[type="password"],
+textarea {
+  border: 2px solid black;
+}
+button {
+  background-color: skyblue;
+  color: black;
+  font-size: large;
+  text-shadow: 1px 1px crimson;
+  box-shadow: 1px 1px 4px 4px black;
+  border-radius: 10px;
+}
